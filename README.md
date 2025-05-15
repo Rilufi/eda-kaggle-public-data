@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner-titanic.png" alt="Banner Análise Exploratoria Titanic">
+</p>
+
 # 📊 Análise Exploratória de Dados Públicos
 
 Este repositório contém notebooks Jupyter com análises exploratórias (EDA) de datasets públicos, como o Titanic, visando práticas em visualização, limpeza e compreensão estatística dos dados.

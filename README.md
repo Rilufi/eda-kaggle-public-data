@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-titanic.png" alt="Banner Análise Exploratoria Titanic">
+  <img src="https://github.com/rilufi/eda-kaggle-public-data/blob/main/assets/banner-titanic.png?raw=true" alt="Banner Análise Exploratoria Titanic">
 </p>
 
 # 📊 Análise Exploratória de Dados Públicos
